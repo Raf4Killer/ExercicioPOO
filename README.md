@@ -1,7 +1,7 @@
 # ExercicioPOO
 Exercicio de POO2
 
-queota
+Teste aula
 Linha adicionada pela linha de comando
 
 Linha adiconada
